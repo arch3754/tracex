@@ -2,7 +2,6 @@ package kafkawriter
 
 import (
 	"github.com/arch3754/toolbox/kafka/producer"
-
 	"github.com/arch3754/tracex/common"
 )
 
